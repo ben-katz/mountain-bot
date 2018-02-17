@@ -8,4 +8,4 @@ Mountain Bot is a discord.py bot made during Mountain Madness 2018
 
 
 
-you can use Mountain Bot by typing `.status` on any channel.
+You can use Mountain Bot by typing `.status` on any channel.
