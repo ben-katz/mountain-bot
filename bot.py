@@ -9,7 +9,7 @@ client = commands.Bot(command_prefix = ".")
 description = 'RBMK Test Bot'
 
 @client.command()
-async def status(ctx):
+async def beep(ctx):
     await ctx.send("boop")
 
 ## Initialize Bot
