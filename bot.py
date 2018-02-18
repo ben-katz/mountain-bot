@@ -1,15 +1,13 @@
 import discord
 import asyncio
 from discord.ext import commands
-from discord.ext import commands
-from discord.ext.commands import Bot
 
-client = commands.Bot(command_prefix = ".")
+bot = commands.Bot(command_prefix = ".")
 description = 'RBMK Test Bot'
 
-@client.command()
+@bot.command()
 async def beep(ctx):
     await ctx.send("boop")
 
 ## Initialize Bot
-client.run('NDE0NTI3OTY3MjAxMzI5MTYy.DWoq1Q.1aW-qKYa1TJFM776ECtlmQ9f9e0')
+bot.run('NDE0NTI3OTY3MjAxMzI5MTYy.DWoq1Q.1aW-qKYa1TJFM776ECtlmQ9f9e0')
