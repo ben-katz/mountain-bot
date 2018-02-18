@@ -1,7 +1,6 @@
 import discord
 import asyncio
 import roads
-import pagination
 from random import getrandbits
 from discord.ext import commands
 from discord.ext.commands import Bot
