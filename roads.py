@@ -4,7 +4,7 @@ import html
 import re
 #Module for reading from the SFU Road Conditions API
 #Returns pretty formatted plaintext strings for whatever use.
-#API URL: http://www.sfu.ca/security/sfuroadconditions/api/2/current
+#API URL: http://www.sfu.ca/security/sfuroadconditions/api/3/current
 
 
 def get():
