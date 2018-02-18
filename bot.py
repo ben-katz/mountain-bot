@@ -33,7 +33,3 @@ async def status(ctx):
 
 ## Initialize Bot
 bot.run('NDE0NTI3OTY3MjAxMzI5MTYy.DWoq1Q.1aW-qKYa1TJFM776ECtlmQ9f9e0')
-
-
-#    for i in range(6):
-#        await msg.add_reaction(emojis[i])
