@@ -1,5 +1,4 @@
-# Mountain Bot
-
+![mountain bot header](mountain-bot-header.gif)
 
 
 Mountain Bot is a discord.py bot made during Mountain Madness 2018
