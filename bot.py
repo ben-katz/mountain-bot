@@ -5,6 +5,7 @@ from random import getrandbits
 from discord.ext import commands
 from discord.ext.commands import Bot
 
+## Set Command Prefix & Description
 bot = commands.Bot(command_prefix = ".")
 description = 'RBMK Test Bot'
 
@@ -22,8 +23,6 @@ async def status(ctx):
     e = discord.Embed(title="Burnaby Mountain Status Update", color=0xffffff, description=roadReport)
     e.set_image(url=camSrc[j])
     msg = await ctx.send(embed=e)
-    i = 0
-    k = 0
     for i in range(6):
         e.set_image(url=camSrc[j])
         edit = await msg.edit(embed=e)
@@ -32,4 +31,4 @@ async def status(ctx):
 
 
 ## Initialize Bot
-bot.run('NDE0NTI3OTY3MjAxMzI5MTYy.DWoq1Q.1aW-qKYa1TJFM776ECtlmQ9f9e0')
+bot.run('BOT_KEY_HERE')
