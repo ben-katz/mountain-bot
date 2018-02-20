@@ -4,6 +4,14 @@
 ## Mountain Bot
 A one-command Discord bot that displays SFU Burnaby road reports and 6 different webcam views of the campus.
 
+## Installation
+
+1. Clone or zip this repository to anywhere on your computer.
+2. Install [Python3.x](https://www.python.org/downloads/) and [discord.py](http://www.dropwizard.io/1.0.2/docs/).
+3. Follow [this guide](https://twentysix26.github.io/Red-Docs/red_guide_bot_accounts/) to setup a bot account.
+4. Replace the placeholder bot key in bot.py with your own. 
+5. Run bot.py
+
 
 ## Usage
 
