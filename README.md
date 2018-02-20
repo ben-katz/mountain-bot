@@ -14,4 +14,4 @@ You can use Mountain Bot by typing `.status` on any channel.
 
 * [discord.py](http://www.dropwizard.io/1.0.2/docs/) - An API wrapper for Discord written in Python.
 * [SFU Road Report API](http://www.sfu.ca/security/sfuroadconditions/api/3/current) - API for fetching current road conditions at SFU.
-* [SFU Webcams](https://www.sfu.ca/itservices/technical/webcams.html) - 
+* [SFU Webcams](https://www.sfu.ca/itservices/technical/webcams.html) - Periodic webcam frames provided by SFU IT Services.
