@@ -1,10 +1,9 @@
 ![mountain bot header](mountain-bot-header.gif)
 
 
-Mountain Bot is a discord.py bot made during Mountain Madness 2018
+## Mountain Bot
+A simple one-command Discord bot that displays SFU Burnaby road reports and 6 different webcam views of the campus.
 
 ## Usage
-
-
 
 You can use Mountain Bot by typing `.status` on any channel.
