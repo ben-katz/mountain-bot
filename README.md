@@ -17,6 +17,8 @@ A one-command Discord bot that displays SFU Burnaby road reports and 6 different
 
 You can use Mountain Bot by typing `.status` on any channel.
 
+![usage](https://i.gyazo.com/725d73e754dee33996cab2b163d59673.gif)
+
 
 ## Built With
 
