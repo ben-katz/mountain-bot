@@ -1,4 +1,4 @@
-![mountain bot header](https://i.imgur.com/undefined.gif)
+![mountain bot header](https://i.imgur.com/tTR7ZXV.gif)
 
 
 ## Mountain Bot
